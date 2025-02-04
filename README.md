@@ -38,3 +38,6 @@ The CNN model used for this project consists of the following layers:
 
 The model is compiled with the Adam optimizer, categorical cross-entropy loss function, and accuracy metric.
 
+## Result 
+
+![image](https://github.com/user-attachments/assets/d673bdf7-f7c2-40ed-ba44-e091b5672c97)
