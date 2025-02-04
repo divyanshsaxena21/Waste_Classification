@@ -51,7 +51,7 @@ The model is compiled with the following configurations:
 
 ## Result
 
-![image](https://github.com/user-attachments/assets/d673bdf7-f7c2-40ed-ba44-e091b5672c97)
+![image](https://github.com/user-attachments/assets/9b51ffe7-2de1-4a21-b095-f42d8d6a66d4)
 
 The model successfully classifies the garbage images into their respective categories, and provides an additional classification of whether the waste is **recyclable** or **non-recyclable**.
 
